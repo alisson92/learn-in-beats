@@ -1,4 +1,10 @@
+# macOS
 .DS_Store
+
+# Windows
 Thumbs.db
+*:Zone.Identifier
+
+# Vim
 *.swp
 *.swo
