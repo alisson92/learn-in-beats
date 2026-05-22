@@ -3,7 +3,7 @@
 > **Volume:** Vol. 5 — Armazenamento
 > **Tecnologia:** Kubernetes
 > **Documentação oficial:** https://kubernetes.io/docs/concepts/storage/persistent-volumes/
-> **Música gerada:** 🔗 em breve
+> **Música gerada:** [Versão A](https://suno.com/s/LjUV1E3gYPhNvp8v) · [Versão B](https://suno.com/s/0cPfTfcXWwhozSGv)
 
 ---
 

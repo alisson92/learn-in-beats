@@ -3,7 +3,7 @@
 > **Volume:** Vol. 6 — Observabilidade & Operação
 > **Tecnologia:** Kubernetes
 > **Documentação oficial:** https://kubernetes.io/docs/concepts/workloads/pods/disruptions/
-> **Música gerada:** 🔗 em breve
+> **Música gerada:** [Versão A](https://suno.com/s/ovXORpUUPJ6oJoaq) · [Versão B](https://suno.com/s/DcNDOmNgEZLhhyER)
 
 ---
 

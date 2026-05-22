@@ -3,7 +3,7 @@
 > **Volume:** Vol. 1 — Fundamentos do Cluster
 > **Tecnologia:** Kubernetes
 > **Documentação oficial:** https://kubernetes.io/docs/concepts/architecture/
-> **Música gerada:** 🔗 em breve
+> **Música gerada:** [Versão A](https://suno.com/s/Wtu3Z4YDsSYosonX) · [Versão B](https://suno.com/s/4RMBsxQWfJckkGQn)
 
 ---
 

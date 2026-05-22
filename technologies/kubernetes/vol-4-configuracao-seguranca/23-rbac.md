@@ -3,7 +3,7 @@
 > **Volume:** Vol. 4 — Configuração & Segurança
 > **Tecnologia:** Kubernetes
 > **Documentação oficial:** https://kubernetes.io/docs/reference/access-authn-authz/rbac/
-> **Música gerada:** 🔗 em breve
+> **Música gerada:** [Versão A](https://suno.com/s/B7lJcg0YQNSo9CGW) · [Versão B](https://suno.com/s/5JY5PuWN915kPwcs)
 
 ---
 

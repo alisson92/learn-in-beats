@@ -3,7 +3,7 @@
 > **Volume:** Vol. 2 — Node & Workloads
 > **Tecnologia:** Kubernetes
 > **Documentação oficial:** https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
-> **Música gerada:** 🔗 em breve
+> **Música gerada:** [Versão A](https://suno.com/s/PkgAjGBRoAsxhEfz) · [Versão B](https://suno.com/s/9pZ8FJwuRm8RYxp1)
 
 ---
 

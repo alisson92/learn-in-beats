@@ -3,7 +3,7 @@
 > **Volume:** Vol. 1 — Fundamentos do Cluster
 > **Tecnologia:** Kubernetes
 > **Documentação oficial:** https://kubernetes.io/docs/concepts/architecture/#kube-controller-manager
-> **Música gerada:** 🔗 em breve
+> **Música gerada:** [Versão A](https://suno.com/s/QGoYH3yWdfnF2jhK) · [Versão B](https://suno.com/s/nr24Dv7QClCxyUxY)
 
 ---
 

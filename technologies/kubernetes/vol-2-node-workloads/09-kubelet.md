@@ -3,7 +3,7 @@
 > **Volume:** Vol. 2 — Node & Workloads
 > **Tecnologia:** Kubernetes
 > **Documentação oficial:** https://kubernetes.io/docs/concepts/architecture/#kubelet
-> **Música gerada:** 🔗 em breve
+> **Música gerada:** [Versão A](https://suno.com/s/eoajhB6KXfabb4s6) · [Versão B](https://suno.com/s/vDzstbXt6M4XbXsI)
 
 ---
 

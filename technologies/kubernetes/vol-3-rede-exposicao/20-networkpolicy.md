@@ -3,7 +3,7 @@
 > **Volume:** Vol. 3 — Rede & Exposição
 > **Tecnologia:** Kubernetes
 > **Documentação oficial:** https://kubernetes.io/docs/concepts/services-networking/network-policies/
-> **Música gerada:** 🔗 em breve
+> **Música gerada:** [Versão A](https://suno.com/s/4E5O3YOGdAbRtgnb) · [Versão B](https://suno.com/s/SY9v28nvOnUvAiFy)
 
 ---
 

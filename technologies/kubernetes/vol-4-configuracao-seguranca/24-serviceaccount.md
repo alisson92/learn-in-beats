@@ -3,7 +3,7 @@
 > **Volume:** Vol. 4 — Configuração & Segurança
 > **Tecnologia:** Kubernetes
 > **Documentação oficial:** https://kubernetes.io/docs/concepts/security/service-accounts/
-> **Música gerada:** 🔗 em breve
+> **Música gerada:** [Versão A](https://suno.com/s/myhRGMDc7TbvJL5F) · [Versão B](https://suno.com/s/5HpHhb1LkJaXDEnY)
 
 ---
 

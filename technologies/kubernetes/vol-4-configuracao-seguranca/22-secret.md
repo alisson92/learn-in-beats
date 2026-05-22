@@ -3,7 +3,7 @@
 > **Volume:** Vol. 4 — Configuração & Segurança
 > **Tecnologia:** Kubernetes
 > **Documentação oficial:** https://kubernetes.io/docs/concepts/configuration/secret/
-> **Música gerada:** 🔗 em breve
+> **Música gerada:** [Versão A](https://suno.com/s/eUtIG2Q5vHNlCvJL) · [Versão B](https://suno.com/s/myX6e5WuxFVPONGd)
 
 ---
 

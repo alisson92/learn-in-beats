@@ -3,7 +3,7 @@
 > **Volume:** Vol. 5 — Armazenamento
 > **Tecnologia:** Kubernetes
 > **Documentação oficial:** https://kubernetes.io/docs/concepts/storage/volumes/
-> **Música gerada:** 🔗 em breve
+> **Música gerada:** [Versão A](https://suno.com/s/89iqSVfCj3BGiWqN) · [Versão B](https://suno.com/s/SUP4pQeKXFPFLgip)
 
 ---
 

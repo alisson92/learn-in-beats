@@ -3,7 +3,7 @@
 > **Volume:** Vol. 3 — Rede & Exposição
 > **Tecnologia:** Kubernetes
 > **Documentação oficial:** https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/
-> **Música gerada:** 🔗 em breve
+> **Música gerada:** [Versão A](https://suno.com/s/hTpzhiG0MJAUaNRL) · [Versão B](https://suno.com/s/KW7KMaD34uZOWKy1)
 
 ---
 

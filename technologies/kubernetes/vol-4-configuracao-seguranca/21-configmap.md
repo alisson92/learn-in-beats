@@ -3,7 +3,7 @@
 > **Volume:** Vol. 4 — Configuração & Segurança
 > **Tecnologia:** Kubernetes
 > **Documentação oficial:** https://kubernetes.io/docs/concepts/configuration/configmap/
-> **Música gerada:** 🔗 em breve
+> **Música gerada:** [Versão A](https://suno.com/s/LRoLCNuthlnMgpDj) · [Versão B](https://suno.com/s/w7vw4jp94MMcIofI)
 
 ---
 

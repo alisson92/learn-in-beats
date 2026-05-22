@@ -3,7 +3,7 @@
 > **Volume:** Vol. 2 — Node & Workloads
 > **Tecnologia:** Kubernetes
 > **Documentação oficial:** https://kubernetes.io/docs/concepts/architecture/#kube-proxy
-> **Música gerada:** 🔗 em breve
+> **Música gerada:** [Versão A](https://suno.com/s/1IwJE0CXN4awJYok) · [Versão B](https://suno.com/s/KDYGDSlgKjLoCEKn)
 
 ---
 

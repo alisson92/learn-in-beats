@@ -3,7 +3,7 @@
 > **Volume:** Vol. 6 — Observabilidade & Operação
 > **Tecnologia:** Kubernetes
 > **Documentação oficial:** https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/
-> **Música gerada:** 🔗 em breve
+> **Música gerada:** [Versão A](https://suno.com/s/l03i9iHGphMBlJON) · [Versão B](https://suno.com/s/XdpQlZiEzuR9Zwbh)
 
 ---
 

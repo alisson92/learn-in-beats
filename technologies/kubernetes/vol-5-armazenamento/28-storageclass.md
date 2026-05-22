@@ -3,7 +3,7 @@
 > **Volume:** Vol. 5 — Armazenamento
 > **Tecnologia:** Kubernetes
 > **Documentação oficial:** https://kubernetes.io/docs/concepts/storage/storage-classes/
-> **Música gerada:** 🔗 em breve
+> **Música gerada:** [Versão A](https://suno.com/s/b91CTlBmpWx8oSua) · [Versão B](https://suno.com/s/vQ8jTp9hzHYCBAaL)
 
 ---
 

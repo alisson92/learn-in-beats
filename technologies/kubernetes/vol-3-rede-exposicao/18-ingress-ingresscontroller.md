@@ -3,7 +3,7 @@
 > **Volume:** Vol. 3 — Rede & Exposição
 > **Tecnologia:** Kubernetes
 > **Documentação oficial:** https://kubernetes.io/docs/concepts/services-networking/ingress/
-> **Música gerada:** 🔗 em breve
+> **Música gerada:** [Versão A](https://suno.com/s/KgNXnfYA1rc6ZXvq) · [Versão B](https://suno.com/s/QZ6UL2OuHJe0fD8W)
 
 ---
 

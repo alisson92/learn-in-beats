@@ -3,7 +3,7 @@
 > **Volume:** Vol. 4 — Configuração & Segurança
 > **Tecnologia:** Kubernetes
 > **Documentação oficial:** https://kubernetes.io/docs/concepts/security/pod-security-standards/
-> **Música gerada:** 🔗 em breve
+> **Música gerada:** [Versão A](https://suno.com/s/zuDFz0ZIHYGogVQO) · [Versão B](https://suno.com/s/ieCK7IDWNHFfIYT2)
 
 ---
 

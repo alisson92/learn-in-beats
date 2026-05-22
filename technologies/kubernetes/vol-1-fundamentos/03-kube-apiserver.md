@@ -3,7 +3,7 @@
 > **Volume:** Vol. 1 — Fundamentos do Cluster
 > **Tecnologia:** Kubernetes
 > **Documentação oficial:** https://kubernetes.io/docs/reference/command-line-tools-reference/kube-apiserver/
-> **Música gerada:** 🔗 em breve
+> **Música gerada:** [Versão A](https://suno.com/s/NDUhiOaY4LR0iLd0) · [Versão B](https://suno.com/s/hwsalZ7xTC7IOqDd)
 
 ---
 

@@ -3,7 +3,7 @@
 > **Volume:** Vol. 1 — Fundamentos do Cluster
 > **Tecnologia:** Kubernetes
 > **Documentação oficial:** https://kubernetes.io/docs/concepts/architecture/#kube-scheduler
-> **Música gerada:** 🔗 em breve
+> **Música gerada:** [Versão A](https://suno.com/s/BCPiNM7rk9nd49Sq) · [Versão B](https://suno.com/s/swreGsQoWRGTxcVH)
 
 ---
 

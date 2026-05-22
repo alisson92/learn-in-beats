@@ -3,7 +3,7 @@
 > **Volume:** Vol. 6 — Observabilidade & Operação
 > **Tecnologia:** Kubernetes
 > **Documentação oficial:** https://kubernetes.io/docs/concepts/workloads/autoscaling/
-> **Música gerada:** 🔗 em breve
+> **Música gerada:** [Versão A](https://suno.com/s/5aCEHDQQaEtAF9NC) · [Versão B](https://suno.com/s/TOmjP36S9EdmIo9x)
 
 ---
 

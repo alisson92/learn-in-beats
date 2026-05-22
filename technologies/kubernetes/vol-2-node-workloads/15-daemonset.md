@@ -3,7 +3,7 @@
 > **Volume:** Vol. 2 — Node & Workloads
 > **Tecnologia:** Kubernetes
 > **Documentação oficial:** https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/
-> **Música gerada:** 🔗 em breve
+> **Música gerada:** [Versão A](https://suno.com/s/CzgFldCPaYUhy9xd) · [Versão B](https://suno.com/s/E9Umr39OpqjIPZiL)
 
 ---
 

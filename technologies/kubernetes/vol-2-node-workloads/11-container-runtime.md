@@ -3,7 +3,7 @@
 > **Volume:** Vol. 2 — Node & Workloads
 > **Tecnologia:** Kubernetes
 > **Documentação oficial:** https://kubernetes.io/docs/concepts/architecture/#container-runtime
-> **Música gerada:** 🔗 em breve
+> **Música gerada:** [Versão A](https://suno.com/s/DbUz7k8lAM9NSWlN) · [Versão B](https://suno.com/s/t0uXMJbU7j8MdU4S)
 
 ---
 

@@ -3,7 +3,7 @@
 > **Volume:** Vol. 6 — Observabilidade & Operação
 > **Tecnologia:** Kubernetes
 > **Documentação oficial:** https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#container-probes
-> **Música gerada:** 🔗 em breve
+> **Música gerada:** [Versão A](https://suno.com/s/VV2i31eMo00er1J7) · [Versão B](https://suno.com/s/EyTuKqsMsWunG5BG)
 
 ---
 
