@@ -50,27 +50,27 @@
 
 ### 📀 Vol. 1 — Fundamentos do Cluster
 Os componentes essenciais do Control Plane. Comece aqui.
-📁 [`vol-1-fundamentos/`](./vol-1-fundamentos/)
+📁 [`vol-1-fundamentos/`](./vol-1-fundamentos/) · [🎵 Playlist](https://suno.com/playlist/fb6d3179-53cd-4b3b-81f4-53d8e6026719)
 
 ### 📀 Vol. 2 — Node & Workloads
 Os componentes dos worker nodes e os objetos de workload.
-📁 [`vol-2-node-workloads/`](./vol-2-node-workloads/)
+📁 [`vol-2-node-workloads/`](./vol-2-node-workloads/) · [🎵 Playlist](https://suno.com/playlist/36293217-a0af-4276-ad8e-d7b550ee551b)
 
 ### 📀 Vol. 3 — Rede & Exposição
 Como o tráfego flui dentro e fora do cluster.
-📁 [`vol-3-rede-exposicao/`](./vol-3-rede-exposicao/)
+📁 [`vol-3-rede-exposicao/`](./vol-3-rede-exposicao/) · [🎵 Playlist](https://suno.com/playlist/36c8dc6e-9f2f-451f-935d-4ffa2792a269)
 
 ### 📀 Vol. 4 — Configuração & Segurança
 Gerenciamento de configuração, segredos e controle de acesso.
-📁 [`vol-4-configuracao-seguranca/`](./vol-4-configuracao-seguranca/)
+📁 [`vol-4-configuracao-seguranca/`](./vol-4-configuracao-seguranca/) · [🎵 Playlist](https://suno.com/playlist/1c548390-683b-41ac-9cd2-3f3993792f33)
 
 ### 📀 Vol. 5 — Armazenamento
 Persistência de dados e gerenciamento de volumes.
-📁 [`vol-5-armazenamento/`](./vol-5-armazenamento/)
+📁 [`vol-5-armazenamento/`](./vol-5-armazenamento/) · [🎵 Playlist](https://suno.com/playlist/d0573a3f-5a78-40b2-92e6-f2ccdd0495ae)
 
 ### 📀 Vol. 6 — Observabilidade & Operação
 Saúde, recursos, escalonamento e organização do cluster.
-📁 [`vol-6-observabilidade-operacao/`](./vol-6-observabilidade-operacao/)
+📁 [`vol-6-observabilidade-operacao/`](./vol-6-observabilidade-operacao/) · [🎵 Playlist](https://suno.com/playlist/19ddaa2d-71b1-4e5b-96dc-79a4cc707a85)
 
 ---
 
