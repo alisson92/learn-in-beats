@@ -61,9 +61,14 @@ learn-in-beats/
 
 ## 🎵 Tecnologias disponíveis
 
-| Tecnologia | Volumes | Músicas | Playlist |
+| Tecnologia | Volume | Músicas | Playlist |
 |---|---|---|---|
-| [Kubernetes](./technologies/kubernetes/README.md) | 6 | 33 | 🔗 Em breve |
+| [Kubernetes](./technologies/kubernetes/README.md) | Vol. 1 — Fundamentos do Cluster | 7 | [🎵 Ouvir](https://suno.com/playlist/fb6d3179-53cd-4b3b-81f4-53d8e6026719) |
+| | Vol. 2 — Node & Workloads | 9 | [🎵 Ouvir](https://suno.com/playlist/36293217-a0af-4276-ad8e-d7b550ee551b) |
+| | Vol. 3 — Rede & Exposição | 4 | [🎵 Ouvir](https://suno.com/playlist/36c8dc6e-9f2f-451f-935d-4ffa2792a269) |
+| | Vol. 4 — Configuração & Segurança | 5 | [🎵 Ouvir](https://suno.com/playlist/1c548390-683b-41ac-9cd2-3f3993792f33) |
+| | Vol. 5 — Armazenamento | 3 | [🎵 Ouvir](https://suno.com/playlist/d0573a3f-5a78-40b2-92e6-f2ccdd0495ae) |
+| | Vol. 6 — Observabilidade & Operação | 5 | [🎵 Ouvir](https://suno.com/playlist/19ddaa2d-71b1-4e5b-96dc-79a4cc707a85) |
 
 ---
 
