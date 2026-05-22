@@ -37,3 +37,12 @@ The lyrics must:
   workload em inglês; rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- O que é um node e seu papel como máquina worker do cluster
+- Três componentes essenciais do node: kubelet, kube-proxy e container runtime
+- Nodes como peças substituíveis gerenciadas pelo Control Plane
+- Self-healing: detecção de falha e realocação de workloads pelo Node controller

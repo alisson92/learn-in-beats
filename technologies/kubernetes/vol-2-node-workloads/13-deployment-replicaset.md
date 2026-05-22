@@ -38,3 +38,12 @@ The lyrics must:
   replica em inglês; rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- Deployment como declaração de estado desejado (desired state)
+- Hierarquia: Deployment → ReplicaSet → Pod
+- Rolling update com zero downtime e rollback automático
+- Por que nunca editar o ReplicaSet diretamente

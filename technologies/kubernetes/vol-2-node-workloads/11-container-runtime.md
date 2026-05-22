@@ -37,3 +37,12 @@ The lyrics must:
   dockershim, image em inglês; rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- O que é o container runtime e por que o Kubernetes delega a execução a ele
+- Container Runtime Interface (CRI) como camada de abstração
+- Exemplos de runtimes: containerd e CRI-O
+- História do Docker: remoção do dockershim e continuidade via containerd

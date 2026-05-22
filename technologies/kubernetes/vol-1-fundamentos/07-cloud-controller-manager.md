@@ -37,3 +37,12 @@ The lyrics must:
   Service controller, load balancer, AWS, GCP, Azure em inglês; rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- Separação da lógica específica de cloud do core do Kubernetes
+- Controllers gerenciados: Node controller, Route controller, Service controller
+- Por que existe separado do kube-controller-manager (evolução independente por provedor)
+- Integração com AWS, GCP e Azure sem modificar o código principal do Kubernetes

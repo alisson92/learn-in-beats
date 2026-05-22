@@ -38,3 +38,12 @@ The lyrics must:
   Sealed Secrets, External Secrets Operator em inglês; rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- Secret para armazenamento de dados sensíveis (senhas, tokens, certificados TLS)
+- Base64 não é criptografia — necessidade de habilitar encryption at rest no etcd
+- Controle de acesso via RBAC e soluções externas (HashiCorp Vault, AWS Secrets Manager)
+- Risco crítico de commitar Secrets em YAML no Git (Sealed Secrets, External Secrets Operator)

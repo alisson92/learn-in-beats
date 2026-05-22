@@ -38,3 +38,12 @@ The lyrics must:
   Kafka, PostgreSQL em inglês; rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- Diferença entre apps stateless (Deployment) e stateful (StatefulSet)
+- Identidade estável: nome fixo por Pod, armazenamento próprio e ordem de inicialização
+- Casos de uso clássicos: PostgreSQL, MySQL, Kafka, Redis em cluster
+- Limite do StatefulSet: replicação de dados ainda é responsabilidade da aplicação

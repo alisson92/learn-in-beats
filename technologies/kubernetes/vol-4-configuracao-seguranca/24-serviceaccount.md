@@ -40,3 +40,12 @@ The lyrics must:
   least privilege em inglês; rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- ServiceAccount como identidade do Pod para autenticação no kube-apiserver
+- Token montado automaticamente pelo Kubernetes dentro do Pod
+- Como operators e controllers dependem do ServiceAccount para interagir com a API
+- Risco do default ServiceAccount: pods comprometidos viram vetor de ataque

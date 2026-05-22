@@ -39,3 +39,12 @@ The lyrics must:
   throttling, node, Pod em inglês; rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- Diferença entre requests (garantido, usado pelo scheduler) e limits (teto de consumo)
+- CPU ultrapassada → throttling (container fica mais lento, não morre)
+- Memória ultrapassada → OOMKilled (container é reiniciado)
+- Risco de não definir resources.limits em produção: memory leak derruba outros Pods no node

@@ -40,3 +40,12 @@ The lyrics must:
   kubectl config use-context em inglês; rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- Namespaces como divisões lógicas do cluster para isolamento de recursos por equipe ou ambiente
+- RBAC e ResourceQuota aplicados por namespace
+- kubectl context como combinação de cluster, namespace e usuário
+- Risco de operar no contexto errado: aplicar manifests em produção achando que está em dev

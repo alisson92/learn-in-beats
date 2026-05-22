@@ -40,3 +40,12 @@ The lyrics must:
   Node controller, Job controller, kube-apiserver em inglês; rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- O que é o kube-controller-manager e o reconciliation loop contínuo
+- Controllers internos: Node controller, Job controller, Endpoints controller, ServiceAccount controller
+- Filosofia declarativa: observar via kube-apiserver e agir de forma idempotente
+- Como o estado atual converge para o estado desejado

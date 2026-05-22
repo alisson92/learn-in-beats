@@ -37,3 +37,12 @@ The lyrics must:
   cluster.local em inglês; rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- CoreDNS como servidor DNS interno do cluster
+- Registro DNS automático para Services no formato service.namespace.svc.cluster.local
+- Resolução dentro do mesmo namespace vs entre namespaces (FQDN completo)
+- Debug de DNS: nslookup e dig via kubectl exec como primeiro passo do diagnóstico

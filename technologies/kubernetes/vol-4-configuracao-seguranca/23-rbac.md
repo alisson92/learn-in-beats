@@ -37,3 +37,12 @@ The lyrics must:
   ServiceAccount, namespace, wildcard, least privilege em inglês; rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- RBAC como sistema de permissões do Kubernetes (quem pode fazer o quê em quais recursos)
+- Quatro objetos: Role, ClusterRole, RoleBinding e ClusterRoleBinding
+- Princípio do least privilege como regra fundamental
+- Risco de wildcard (*) em verbs e resources: equivale a acesso root no cluster

@@ -35,3 +35,12 @@ The lyrics must:
 - Keep etcd, kube-apiserver, key-value, Raft, backup, cluster state em inglês; rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- O que é o etcd e seu papel como única fonte de verdade do cluster
+- Acesso exclusivo via kube-apiserver (nenhum outro componente fala direto com o etcd)
+- Protocolo Raft para garantir consistência entre múltiplas instâncias
+- Importância crítica do backup do etcd em produção

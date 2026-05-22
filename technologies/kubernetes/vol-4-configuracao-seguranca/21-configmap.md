@@ -38,3 +38,12 @@ The lyrics must:
   em inglês; rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- ConfigMap para separar configuração não sensível do código da imagem
+- Formas de consumo: variável de ambiente, volume montado e via API
+- Volume mount como opção mais flexível (permite atualização sem restart do Pod)
+- O que não colocar em ConfigMap: dados sensíveis pertencem ao Secret

@@ -39,3 +39,12 @@ The lyrics must:
   em inglês; rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- Os três tipos de probe: liveness (reinicia se falhar), readiness (remove do Service se falhar), startup (protege durante inicialização)
+- Papel das probes como "olhos do kubelet" para distinguir container saudável de travado
+- Parâmetros críticos de calibração: initialDelaySeconds e failureThreshold
+- CrashLoopBackOff causado por liveness probe agressiva em requisições lentas

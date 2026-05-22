@@ -38,3 +38,12 @@ The lyrics must:
   provisioner, reclaim policy, EKS, gp2, gp3 em inglês; rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- StorageClass como habilitadora do provisionamento dinâmico de PersistentVolumes
+- Configuração: provisioner, parâmetros de tipo de disco e reclaim policy
+- Múltiplas StorageClasses por cluster e definição da classe default
+- Custo e performance em EKS: gp2 vs gp3 — revisar antes de ir para produção

@@ -39,3 +39,12 @@ The lyrics must:
   drain, node, replicas em inglês; rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- PDB para proteger apps durante manutenções planejadas (drain de nodes, atualizações)
+- Configuração via minAvailable (mínimo online) ou maxUnavailable (máximo offline)
+- Valores absolutos ou percentuais para aplicações críticas
+- Combinação perigosa em produção: replicas: 1 sem PDB definido

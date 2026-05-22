@@ -40,3 +40,12 @@ The lyrics must:
   rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- PersistentVolume (PV) como armazenamento real e PVC como pedido do desenvolvedor
+- Binding automático entre PVC e PV compatível pelo Kubernetes
+- Reclaim policies e seus impactos: Retain (mantém dados), Delete (apaga tudo)
+- Risco de deletar PVC sem verificar a reclaim policy em produção

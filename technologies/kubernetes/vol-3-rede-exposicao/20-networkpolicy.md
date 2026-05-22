@@ -38,3 +38,12 @@ The lyrics must:
   Calico, Cilium em inglês; rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- Por padrão todo Pod pode falar com todo Pod — NetworkPolicy como firewall declarativo
+- Regras de ingress (quem entra) e egress (para onde sai) no nível do Pod
+- Dependência de CNI compatível: Calico, Cilium, Weave
+- Risco de aplicar deny-all sem mapear as dependências da aplicação antes

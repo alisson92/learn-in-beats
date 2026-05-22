@@ -39,3 +39,12 @@ The lyrics must:
   rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- SecurityContext para controlar como o container roda no nível do sistema operacional
+- Configurações essenciais: runAsNonRoot, read-only filesystem, drop de capabilities
+- Pod Security Admission: três perfis (Privileged, Baseline, Restricted) aplicados por namespace
+- Risco de containers rodando como root: acesso root no node se comprometidos

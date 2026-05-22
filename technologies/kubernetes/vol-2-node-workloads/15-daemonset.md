@@ -38,3 +38,12 @@ The lyrics must:
   CNI em inglês; rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- DaemonSet garante exatamente um Pod por node no cluster
+- Adição e remoção automática de Pods conforme nodes entram e saem
+- Casos de uso: agentes de log (Fluentd, Filebeat), monitoramento (node-exporter), CNI, segurança
+- Diferença entre DaemonSet (um por node) e Deployment (número fixo de réplicas)

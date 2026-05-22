@@ -37,3 +37,12 @@ The lyrics must:
   nodeSelector, taints, tolerations, resources em inglês; rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- Papel do kube-scheduler: observar Pods sem node atribuído e decidir onde vão rodar
+- Processo de decisão: filtering (quais nodes são elegíveis) e scoring (qual é o melhor)
+- Critérios avaliados: resources, nodeSelector, affinity, taints e tolerations
+- Pod preso em Pending: causas comuns e como diagnosticar

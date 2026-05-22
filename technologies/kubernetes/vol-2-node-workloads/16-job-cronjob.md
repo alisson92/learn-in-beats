@@ -38,3 +38,12 @@ The lyrics must:
   successfulJobsHistoryLimit em inglês; rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- Job para tarefas finitas com garantia de conclusão mesmo após falhas do Pod
+- CronJob para agendamento recorrente com sintaxe cron familiar
+- Configurações críticas: concurrencyPolicy e successfulJobsHistoryLimit
+- Risco de execuções perdidas ou acumuladas quando o cluster está indisponível

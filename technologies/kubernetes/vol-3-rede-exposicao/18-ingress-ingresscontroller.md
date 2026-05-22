@@ -38,3 +38,12 @@ The lyrics must:
   nginx-ingress, Traefik, cert-manager, Secret em inglês; rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- Ingress como ponto único de entrada para múltiplos Services via regras HTTP/HTTPS
+- Roteamento por host e por path com um único IP externo
+- IngressController como implementador das regras (nginx-ingress, Traefik, AWS ALB)
+- TLS termination no Ingress e renovação automática com cert-manager

@@ -40,3 +40,12 @@ The lyrics must:
   rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- HPA como mecanismo de escala horizontal automática baseada em métricas
+- Integração com metrics-server: consulta a cada 15 segundos para calcular réplicas ideais
+- Dependência obrigatória de resources.requests para o HPA funcionar
+- Configuração de minReplicas e maxReplicas para evitar subprovisão e desperdício

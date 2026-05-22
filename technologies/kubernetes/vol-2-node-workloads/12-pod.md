@@ -38,3 +38,12 @@ The lyrics must:
   Succeeded, Failed, Deployment, ReplicaSet em inglês; rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- Pod como a menor unidade deployável do Kubernetes
+- Compartilhamento de network namespace e storage entre containers do mesmo Pod
+- Lifecycle do Pod: Pending, Running, Succeeded, Failed, Unknown
+- Por que gerenciar Pods diretamente em produção é uma má prática

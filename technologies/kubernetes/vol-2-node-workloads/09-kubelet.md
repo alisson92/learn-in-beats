@@ -38,3 +38,12 @@ The lyrics must:
   restartPolicy, container, node em inglês; rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- Kubelet como agente primário do node e ponto de contato com o Control Plane
+- Recebimento e execução de PodSpecs via kube-apiserver
+- Monitoramento contínuo via liveness e readiness probes
+- Limites do kubelet: só gerencia containers criados pelo cluster

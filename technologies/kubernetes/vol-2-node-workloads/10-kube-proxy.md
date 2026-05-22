@@ -38,3 +38,12 @@ The lyrics must:
   em inglês; rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- Papel do kube-proxy na implementação do conceito de Service
+- Uso de iptables e IPVS para interceptar e redirecionar tráfego
+- Load balancing no nível de rede de forma transparente
+- kube-proxy como componente opcional em clusters com CNI avançado (ex: Cilium)

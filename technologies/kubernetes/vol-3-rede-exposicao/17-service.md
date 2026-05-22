@@ -37,3 +37,12 @@ The lyrics must:
   Ingress em inglês; rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- Service como abstração de IP e DNS estáveis para Pods efêmeros
+- Label selector como mecanismo de descoberta de Pods saudáveis
+- Três tipos de Service: ClusterIP, NodePort e LoadBalancer
+- Custo x necessidade: quando usar cada tipo (ClusterIP interno, LoadBalancer só quando necessário)

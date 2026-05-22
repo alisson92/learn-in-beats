@@ -37,3 +37,12 @@ The lyrics must:
   PersistentVolumeClaim, Pod, container em inglês; rest in Portuguese
 - Be educational but feel like a real song, not a lecture
 ```
+
+---
+
+## Conceitos cobertos
+
+- Volume como solução para persistência de dados além do restart do container
+- Tipos comuns: emptyDir, hostPath, configMap, secret e PersistentVolumeClaim
+- Ciclo de vida do Volume atrelado ao Pod (diferente do PersistentVolume)
+- Quando usar PersistentVolumeClaim para dados que precisam sobreviver além do Pod
