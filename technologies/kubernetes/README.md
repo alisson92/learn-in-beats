@@ -50,7 +50,7 @@
 
 ### 📀 Vol. 1 — Fundamentos do Cluster
 Os componentes essenciais do Control Plane. Comece aqui.
-📁 [`vol-1-fundamentos/`](./vol-1-fundamentos/) · [🎵 Playlist](https://suno.com/playlist/fb6d3179-53cd-4b3b-81f4-53d8e6026719)
+📁 [`vol-1-fundamentos/`](./vol-1-fundamentos/) · [🎵 Playlist](https://suno.com/playlist/fb6d3179-53cd-4b3b-81f4-53d8e6026719) · ⏳ Spotify: em processamento
 
 ### 📀 Vol. 2 — Node & Workloads
 Os componentes dos worker nodes e os objetos de workload.

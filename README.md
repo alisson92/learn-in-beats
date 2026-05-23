@@ -72,6 +72,17 @@ learn-in-beats/
 
 ---
 
+## 🎧 Disponível no Spotify
+
+| Tecnologia | Volume | Status |
+|---|---|---|
+| Kubernetes | Vol. 1: Fundamentos | ⏳ Em processamento (DistroKid → Spotify) |
+| Kubernetes | Vol. 2 a Vol. 6 | 🔜 Em breve |
+
+> As músicas do Suno permanecem disponíveis nas playlists acima enquanto o Spotify processa.
+
+---
+
 ## 🚀 Como usar
 
 1. Acesse a pasta da tecnologia que deseja estudar
